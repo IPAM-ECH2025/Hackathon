@@ -13,4 +13,6 @@
 - Physical Resources
   - Screens, cables
   - Find your place anywhere the lobby
-     
+ 
+## GitHub resources
+- Labels are a good way to organize and sort your issues. [Here](https://github.com/abdonrd/github-labels/tree/master) is a repository that has a good set of labels.
